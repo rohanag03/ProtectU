@@ -6,7 +6,7 @@ ProtectU is an Android application prioritizes women's safety by providing immed
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 ## Download APK Here:
-https://drive.google.com/file/d/1S6MBhHQ2VsUbrV3aq2wOwN-0WmgnBHuH/view?usp=sharing
+https://github.com/rohanag03/ProtectU/blob/master/APK/ProtectU.apk
 ## Features / Workflow: 
 - **Emergency Alerts**: With a single press of the "Emergency" button, the app sends SMS alerts with the user's current location to registered contacts, notifying them of a potential distress situation.
 - **Contact Management**: Users can easily register family members and friends as emergency contacts within the app.
