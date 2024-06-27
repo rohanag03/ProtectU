@@ -1,5 +1,5 @@
 ## <p align = "center"> ProtectU </p>
-ProtectU is an Android application prioritizes women's safety by providing immediate assistance during emergencies.
+ProtectU is an Android application prioritizes personal safety by providing immediate assistance during emergencies.
 <br>
 <br>
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
