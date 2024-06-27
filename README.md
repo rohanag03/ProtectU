@@ -26,9 +26,9 @@ https://github.com/rohanag03/ProtectU/blob/master/APK/ProtectU.apk
 - Firebase
 - SQLite
 
-## Contributions:
-Contributing
-We welcome contributions to this project! 
+## Contributing
+
+Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
 
 ## License
 
