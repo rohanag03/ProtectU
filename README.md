@@ -30,6 +30,10 @@ https://github.com/rohanag03/ProtectU/blob/master/APK/ProtectU.apk
 Contributing
 We welcome contributions to this project! 
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/rohanag03/ProtectU/blob/master/LICENSE) file for details.
+
 
 
 
